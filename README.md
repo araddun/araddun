@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @araddun
 - 👀 I’m interested in AI and coding in general
-- 🌱 I’m currently learning Python and PHP
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: s.jajanidze@gmail.com
 
 <!---
